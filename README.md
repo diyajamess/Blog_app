@@ -1,6 +1,6 @@
 # Blog App
 
-A blogging platform built with **React**, **Material-UI**, and **Draft.js**, enabling users to create, view, share, and manage blog posts. This app demonstrates the use of modern React practices, integration of rich text editing, and seamless interaction with REST APIs.
+A blogging platform built with **React**, **Material-UI**, and **Draft.js**, enabling users to create, view, share, and manage blog posts. This app demonstrates the use of modern React practices, integration of rich text editing, and seamless interaction with REST APIs(Basic CRUD operations)
 
 ## Features
 
